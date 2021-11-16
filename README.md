@@ -1,4 +1,4 @@
-Hi, I’m @Barak-Menachem
+Hi, My name is Barak-Menachem 👨‍💻.  
 My coding skills include professionallity in:
 - Linux Backend using varaiety of AWS services.
 - Embedded RT development.
